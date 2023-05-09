@@ -1,0 +1,12 @@
+body{
+     
+    background-image: url("../Images/Image2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    margin: 245px  ;
+}
